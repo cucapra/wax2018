@@ -4,12 +4,12 @@ Proposal for Co-Location with ASPLOS 2018
 
 ## Organizing Committee
 
-- Luis Ceze, University of Washington
-- Adrian Sampson, Cornell University
-- Hadi Esmaeilzadeh, UC San Diego
 - Michael Carbin, MIT
+- Luis Ceze, University of Washington
+- Hadi Esmaeilzadeh, UC San Diego
 - Kathryn McKinley, Google
 - Sasa Misailovic, UIUC
+- Adrian Sampson, Cornell University
 
 
 ## Logistics
