@@ -1,13 +1,15 @@
 # WAX: Workshop on Approximate Computing Across the Stack
-Proposal for Co-Location with ASPLOS 2017
+Proposal for Co-Location with ASPLOS 2018
 
 
-## Organizers
+## Organizing Committee
 
 - Luis Ceze, University of Washington
 - Adrian Sampson, Cornell University
-
-We also plan to enlist 1--3 other organizers to help out.
+- Hadi Esmaeilzadeh, UC San Diego
+- Michael Carbin, MIT
+- Kathryn McKinley, Google
+- Sasa Misailovic, UIUC
 
 
 ## Logistics
@@ -21,7 +23,8 @@ We also plan to enlist 1--3 other organizers to help out.
 - WACAS at ASPLOS 2014: ~50 attendees, http://sampa.cs.washington.edu/wacas14
 - APPROX at PLDI 2014: ~30, http://approx2014.cs.umass.edu
 - WAX (merged) at FCRC/PLDI 2015: ~30, https://sampa.cs.washington.edu/wax2015
-- WAX and ASPLOS 2016: ~40, http://approximate.computer/wax2016/
+- WAX at ASPLOS 2016: ~40, http://approximate.computer/wax2016/
+- WAX at ASPLOS 2017: ~30, http://approximate.computer/wax2017/
 
 
 ## Sample CFP
