@@ -31,7 +31,6 @@ Proposal for Co-Location with ASPLOS 2018
 
 WAX is a workshop on approximate computing, a research direction that asks how computer systems can be made better—faster, more efficient, and less complex—by relaxing the requirement that they be exactly correct. Approximation arises from sources as diverse as sensors, machine learning algorithms, and big data applications. Approximate systems raise questions from across the system stack, from circuits to applications. WAX is a venue for discussion, debate, and brainstorming on all of these topics.
 
-
 ### Topic
 
 With transistor scaling becoming less effective at improving computer system performance and energy efficiency, we urgently need new paths forward for expanding the capabilities of computers. Trading off accuracy for better performance and energy efficiency is an attractive option for many important and resource-hungry applications, including image and video processing, computer vision, machine learning, simulations, big data analytics, embedded systems, etc. For that reason, approximate computing has become a “hot topic,” with active research in computer architecture, programming languages, operating systems and user-facing areas such as ubiquitous computing and HCI.
@@ -49,12 +48,11 @@ WAX will consist of a mix of peer-reviewed position papers, short lightning talk
 - Retrospectives on past approximate-computing work, including both reflections on your own past projects and reproduction of others’ results
 - Position papers on approximate computing, potential, how it could fail, what we need to succeed, etc.
 
-
 ### How to Participate
 
 We invite participation in three forms: position papers, lightning talks, and discussion topics.
 
-- Peer-Reviewed Position Papers: The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, or reflect on trends in the community. Accepted papers will be presented at the workshop in slots ranging from approximately 5 to 15 minutes depending on the paper’s scope and the volume of submissions.
+- Peer-Reviewed Position Papers: The workshop will include a peer-reviewed program of short position papers. Papers can describe an early-stage research project, advocate an opinion about approximate computing, reflect on trends in the community, or demonstrate a system. Accepted papers will be presented at the workshop in slots ranging from approximately 5 to 15 minutes depending on the paper’s scope and the volume of submissions. We especially encourage talks with live demos of applications and working tools.
 - Lightning Talks: WAX will feature a session for short talks in the morning that present a single opinion, a nugget of an idea, or just food for thought. Speakers will have approximately 60 seconds. Talks will consist of two slides, one of which is a title slide (including at least the title itself and the speaker’s name, affiliation, and email address).
 - Open Questions: We will be holding discussions between WAX attendees. Groups will break out for discussion over lunch and report back to the rest of the attendees. We need your help building a list of discussion topics on approximate computing.
 
