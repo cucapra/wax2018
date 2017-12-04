@@ -1,9 +1,10 @@
 ---
-title: "Call for Participation"
+title: "Draft CFP"
 layout: layout.html
+order: 1
 ---
 
-## Call for Participation
+## Draft Call for Participation
 
 WAX is a workshop on approximate computing, a research direction that asks how computer systems can be made better---faster, more efficient, and less complex---by relaxing the requirement that they be exactly correct. Approximation arises from sources as diverse as sensors, machine learning algorithms, and big data applications. Approximate systems raise questions from across the system stack, from circuits to applications. WAX is a venue for discussion, debate, and brainstorming on all of these topics.
 
@@ -39,12 +40,14 @@ Position papers will go through a full peer-review process by a [program committ
 Accepted papers will be presented in short talks, around 5 to 15 minutes.
 We will not publish the paper in a formal proceedings. Instead, we will post PDFs of accepted papers on the workshop's Web site.
 Authors are also encouraged to submit supporting material (code, data dumps, etc.) after acceptance, which we will also host.
+We especially encourage talks with live demos of applications and working tools.
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+**TK: Explicitly recommend an acmart documentclass?**
 
 Submit your papers [via HotCRP][hotcrp].
 
-[hotcrp]: http://www.cs.cornell.edu/conferences/wax2017/
+[hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
 [pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 
@@ -54,7 +57,7 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send your slides to Adrian Sampson <asampson@cs.cornell.edu>.
+**TK Submission instructions.**
 
 #### Discussion Topics
 
@@ -64,28 +67,16 @@ Please submit a sentence or two about an open problem, philosophical question, o
 
 Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
-[topics]: https://github.com/sampsyo/wax2017/wiki/Discussion-Topics
+[topics]: https://github.com/sampsyo/wax2018/wiki/Discussion-Topics
 
 
 ### Deadlines
 
-Here were the important dates:
-
-* February 20, 2017: position papers due
-* March 6, 2017: notification for position papers
-* March 20, 2017: lightning-talk slides and discussion topics due
-* April 9, 2017: workshop day
+**TK**
 
 ### Program Committee
 
-* Sarita Adve, UIUC
-* Eva Darulova, Max Planck
-* Antonio Filieri, Imperial College London
-* Christopher Jermaine, Rice
-* Djordje Jevdjic, University of Washington
-* Nam Sung Kim, UIUC
-* Gennady Pekhimenko, University of Toronto
-* Joshua San Miguel, University of Toronto
+**TK**
 
 ### Organization
 
@@ -100,13 +91,15 @@ The WAX steering committee is:
 
 ### Previous Iterations
 
-WAX 2017 succeeds three previous workshops over the last two years:
+WAX 2018 succeeds three previous workshops over the last two years:
 
+* [WAX 2017][], at ASPLOS
 * [WAX 2016][], at ASPLOS
 * [WAX 2015][], at FCRC
 * [WACAS 2014][], at ASPLOS
 * [APPROX 2014][], at PLDI
 
+[wax 2017]: http://approximate.computer/wax2017/
 [wax 2016]: http://approximate.computer/wax2016/
 [wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
 [wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
