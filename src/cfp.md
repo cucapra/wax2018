@@ -76,7 +76,11 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 ### Program Committee
 
+The program chair for WAX 2018 is [Hank Hoffman][].
+
 **TK**
+
+[hank]: http://people.cs.uchicago.edu/~hankhoffmann/
 
 ### Organization
 
