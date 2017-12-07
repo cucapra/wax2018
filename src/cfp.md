@@ -42,8 +42,8 @@ We will not publish the paper in a formal proceedings. Instead, we will post PDF
 Authors are also encouraged to submit supporting material (code, data dumps, etc.) after acceptance, which we will also host.
 We especially encourage talks with live demos of applications and working tools.
 
-Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
-**TK: Explicitly recommend an acmart documentclass?**
+Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (please use the sigplan sub-format of the acmart class) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+
 
 Submit your papers [via HotCRP][hotcrp].
 
@@ -57,7 +57,7 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-**TK Submission instructions.**
+Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann (please use subject "WAX 2018 Lightning Talk Proposal"]: mailto:hankhoffmann@cs.uchicago.edu 
 
 #### Discussion Topics
 
@@ -70,13 +70,16 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 [topics]: https://github.com/sampsyo/wax2018/wiki/Discussion-Topics
 
 
-### Deadlines
+### Deadlines and Important Dates
 
-**TK**
+- **3/25** WAX!
+- **3/5**  Due date for lightning talks, discussion topics, and camera-ready position papers.
+- **2/19** Notification for position papers.
+- **1/29** Submission deadline for 2-page position papers.
 
 ### Program Committee
 
-The program chair for WAX 2018 is [Hank Hoffman][hank].
+The program chair for WAX 2018 is [Hank Hoffmann][hank].
 
 **TK**
 
