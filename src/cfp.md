@@ -4,7 +4,7 @@ layout: layout.html
 order: 1
 ---
 
-## Draft Call for Participation
+## Call for Participation
 
 WAX is a workshop on approximate computing, a research direction that asks how computer systems can be made better---faster, more efficient, and less complex---by relaxing the requirement that they be exactly correct. Approximation arises from sources as diverse as sensors, machine learning algorithms, and big data applications. Approximate systems raise questions from across the system stack, from circuits to applications. WAX is a venue for discussion, debate, and brainstorming on all of these topics.
 
