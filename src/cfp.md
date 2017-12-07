@@ -1,5 +1,5 @@
 ---
-title: "Draft CFP"
+title: "CFP"
 layout: layout.html
 order: 1
 ---
