@@ -10,7 +10,8 @@ order: 1
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2018][].
 
-**Participate!** by submitting a 2-page position paper on approximate computing or a lightning talk on a provocative or controversial aspect of approximation.  See the call for papers for more details [cfp]: cfp.html
+**Participate!** by submitting a 2-page position paper on approximate computing or a lightning talk on a provocative or controversial aspect of approximation.  See the [CFP][] for more details on how to get involved and what to submit.
+
 
 Previous instances:
 
@@ -26,3 +27,4 @@ Previous instances:
 [wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
 [wacas 2014]: http://sampa.cs.washington.edu/new/wacas14/
 [approx 2014]: http://approx2014.cs.umass.edu/
+[cfp]: http://approximate.computer/wax2018/cfp.html
