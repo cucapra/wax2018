@@ -42,7 +42,7 @@ We will not publish the paper in a formal proceedings. Instead, we will post PDF
 Authors are also encouraged to submit supporting material (code, data dumps, etc.) after acceptance, which we will also host.
 We especially encourage talks with live demos of applications and working tools.
 
-Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (please use the sigplan sub-format of the acmart class) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
 
 Submit your papers [via HotCRP][hotcrp].
@@ -57,7 +57,7 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann][hank-email] (please use subject "WAX 2018 Lightning Talk Proposal"):
+Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann][hank-email] (please use subject "WAX 2018 Lightning Talk Proposal").
 
 [hank-email]: mailto:hankhoffmann@cs.uchicago.edu
 
@@ -83,7 +83,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 The program chair for WAX 2018 is [Hank Hoffmann][hank].
 
-**TK**
+The program committee is being selected and will appear here soon.
 
 [hank]: http://people.cs.uchicago.edu/~hankhoffmann/
 
