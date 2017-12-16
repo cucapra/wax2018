@@ -1,5 +1,5 @@
 ---
-title: "CFP"
+title: "Call for Participation"
 layout: layout.html
 order: 1
 ---
@@ -93,8 +93,8 @@ The WAX steering committee is:
 
 * [Michael Carbin](http://people.csail.mit.edu/mcarbin/), MIT
 * [Luis Ceze](https://homes.cs.washington.edu/~luisceze/), University of Washington
-* [Hadi Esmaeilzadeh](http://www.cc.gatech.edu/~hadi/), Georgia Tech
-* [Kathryn S McKinley](https://www.cs.utexas.edu/users/mckinley/)
+* [Hadi Esmaeilzadeh](http://www.cc.gatech.edu/~hadi/), UC San Diego
+* [Kathryn S McKinley](https://www.cs.utexas.edu/users/mckinley/), Google
 * [Sasa Misailovic](http://misailo.web.engr.illinois.edu), University of Illinois at Urbana--Champaign
 * [Adrian Sampson](http://www.cs.cornell.edu/~asampson/), Cornell
 

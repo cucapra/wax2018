@@ -16,7 +16,7 @@ It will be co-located with [ASPLOS 2018][].
 * Submit lightning talks [via email][hank-email] by **March 5**.
 * Submit discussion topics [via wiki][topics] also by **March 5**.
 
-See the [call for papers][cfp] for more details on how to get involved and what to submit.
+See the [call for participation][cfp] for more details on how to get involved and what to submit.
 
 [hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
 [hank-email]: mailto:hankhoffmann@cs.uchicago.edu
