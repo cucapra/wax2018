@@ -10,8 +10,17 @@ order: 1
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2018][].
 
-**Participate!** by submitting a 2-page position paper on approximate computing or a lightning talk on a provocative or controversial aspect of approximation.  See the [CFP][] for more details on how to get involved and what to submit.
+**Participate!** by submitting a 2-page position paper on approximate computing, a lightning talk on a provocative or controversial aspect of approximation, or a discussion topic for the workshop:
 
+* Submit position papers [via HotCRP][hotcrp] by **January 29**.
+* Submit lightning talks [via email][hank-email] by **March 5**.
+* Submit discussion topics [via wiki][topics] also by **March 5**.
+
+See the [call for papers][cfp] for more details on how to get involved and what to submit.
+
+[hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
+[hank-email]: mailto:hankhoffmann@cs.uchicago.edu
+[topics]: https://github.com/cucapra/wax2018/wiki/Discussion-Topics
 
 Previous instances:
 

@@ -57,7 +57,9 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann (please use subject "WAX 2018 Lightning Talk Proposal"]: mailto:hankhoffmann@cs.uchicago.edu 
+Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann][hank-email] (please use subject "WAX 2018 Lightning Talk Proposal"):
+
+[hank-email]: mailto:hankhoffmann@cs.uchicago.edu
 
 #### Discussion Topics
 
@@ -67,7 +69,7 @@ Please submit a sentence or two about an open problem, philosophical question, o
 
 Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
-[topics]: https://github.com/sampsyo/wax2018/wiki/Discussion-Topics
+[topics]: https://github.com/cucapra/wax2018/wiki/Discussion-Topics
 
 
 ### Deadlines and Important Dates
