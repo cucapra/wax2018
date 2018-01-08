@@ -83,7 +83,16 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 The program chair for WAX 2018 is [Hank Hoffmann][hank].
 
-The program committee is being selected and will appear here soon.
+The program committee is:
+* [Emery Berger](http://www.emeryberger.org/), University of Massachusetts Amherst
+* [Nikil Dutt](http://www.ics.uci.edu/~dutt), UC Irvine
+* [Ulya R. Karpuzcu](http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html), University of Minnesota
+* [Samira Khan](http://www.cs.virginia.edu/~smk9u/), University of Virginia
+* [Santosh Nagarakatte](https://www.cs.rutgers.edu/~santosh.nagarakatte/), Rutgers
+* [John Sartori](http://people.ece.umn.edu/users/jsartori/), University of Minnesota
+* [Ioana Vatajelu](http://tima.univ-grenoble-alpes.fr/tima/en/timalaboratory/persopage_id1802.html), Grenoble INP
+
+
 
 [hank]: http://people.cs.uchicago.edu/~hankhoffmann/
 
