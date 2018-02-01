@@ -10,9 +10,11 @@ order: 1
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2018][].
 
+** Deadline Extended to 2/5! **
+
 **Participate!** by submitting a 2-page position paper on approximate computing, a lightning talk on a provocative or controversial aspect of approximation, or a discussion topic for the workshop:
 
-* Submit position papers [via HotCRP][hotcrp] by **January 29**.
+* Submit position papers [via HotCRP][hotcrp] by ~~**January 29**~~ **February 5**.
 * Submit lightning talks [via email][hank-email] by **March 5**.
 * Submit discussion topics [via wiki][topics] also by **March 5**.
 

@@ -77,7 +77,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 - **3/25** WAX!
 - **3/5**  Due date for lightning talks, discussion topics, and camera-ready position papers.
 - **2/19** Notification for position papers.
-- **1/29** Submission deadline for 2-page position papers.
+- ~~**1/29**~~ **Extended to: 2/5~~ Submission deadline for 2-page position papers.
 
 ### Program Committee
 
@@ -86,6 +86,7 @@ The program chair for WAX 2018 is [Hank Hoffmann][hank].
 The program committee is:
 * [Emery Berger](http://www.emeryberger.org/), University of Massachusetts Amherst
 * [Nikil Dutt](http://www.ics.uci.edu/~dutt), UC Irvine
+* [Ravi Iyer](https://www.linkedin.com/in/ravi-iyer-6876793)
 * [Ulya R. Karpuzcu](http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html), University of Minnesota
 * [Samira Khan](http://www.cs.virginia.edu/~smk9u/), University of Virginia
 * [Santosh Nagarakatte](https://www.cs.rutgers.edu/~santosh.nagarakatte/), Rutgers
