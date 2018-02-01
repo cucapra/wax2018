@@ -77,7 +77,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 - **3/25** WAX!
 - **3/5**  Due date for lightning talks, discussion topics, and camera-ready position papers.
 - **2/19** Notification for position papers.
-- ~~**1/29**~~ **Extended to: 2/5~~ Submission deadline for 2-page position papers.
+- ~~**1/29**~~ **Extended to: 2/5** Submission deadline for 2-page position papers.
 
 ### Program Committee
 
