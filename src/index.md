@@ -10,7 +10,9 @@ order: 1
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2018][].
 
-** Deadline Extended to 2/5! **
+**We are pleased to announce our keynote talk will be delivered by Phillip Stanley-Marbell from the University of Cambridge.**
+
+**We have accepted nine great, though-provoking papers.  Program details will be announced soon.**
 
 **Participate!** by submitting a 2-page position paper on approximate computing, a lightning talk on a provocative or controversial aspect of approximation, or a discussion topic for the workshop:
 
