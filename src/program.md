@@ -26,7 +26,7 @@ order: 2
   Sihang Liu (University of Virginia); Kevin Angstadt (University of Michigan); Mike Ferdman (Stony Brook University); Samira Khan (University of Virginia)
 
 * AISC: Approximate Instruction Set Computer  
-  Ulya R. Karpuzcu (University of Minnesota)
+  Alexandra Ferrerón, Jesús Alastruey-Benedé, Darío Suárez-Gracia (Universidad de Zaragoza); Ulya R. Karpuzcu (University of Minnesota)
 
 * Quality-Configurable Approximate Memory Hierarchy: A Formal Control Theory Approach  
   Majid Shoushtari (UC Irvine); Amir M. Rahmani (TU Wien); Nikil Dutt (UC Irvine)
