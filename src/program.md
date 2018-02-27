@@ -4,6 +4,14 @@ layout: layout.html
 order: 2
 ---
 
+## Keynote
+
+The WAX 2018 keynote will be delivered by [Phillip Stanley-Marbell](http://www.phillipstanleymarbell.org) from the University of Cambridge.
+
+## Accepted Papers
+
+These peer-reviewed position papers will appear at WAX:
+
 * **Accelerating Approximations via Slack Recycling**  
   Gokul Subramanian Ravi and Mikko Lipasti (University of Wisconsin - Madison)
 
@@ -19,7 +27,7 @@ order: 2
 * **The What's Next Intermittent Architecture**  
   Karthik Ganesan (University of Toronto); Joshua San Miguel (University of Wisconsin - Madison); Natalie Enright Jerger (University of Toronto)
 
-* **Leveraging Structural Information to Ease Approximation Manageme**nt
+* **Leveraging Structural Information to Ease Approximation Management**  
   Liu Liu (Rutgers University); Sibren Issacman (Loyola University); Ulrich Kremer (Rutgers University)
 
 * **ARMOR: Approximate Memory with Worst-Case Error Guarantees through Reshuffling of Memory Failures**  
