@@ -1,5 +1,5 @@
 ---
-title: "Accepted Papers"
+title: "Program"
 layout: layout.html
 order: 2
 ---

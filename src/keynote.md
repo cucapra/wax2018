@@ -1,7 +1,6 @@
 ---
 title: "Keynote"
 layout: layout.html
-order: 2
 ---
 # Keynote
 
