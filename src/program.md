@@ -14,7 +14,7 @@ order: 2
 **9:10--10:00am**: [Keynote][]
 
 [Phillip Stanley-Marbell][psm], University of Cambridge:
-["Not Your Typical Objects: Made from Raw Materials Augmented with Sensing and Computation."][keynote]
+[**"Not Your Typical Objects: Made from Raw Materials Augmented with Sensing and Computation."**][keynote]
 
 [psm]: http://www.phillipstanleymarbell.org
 [keynote]: keynote.html
