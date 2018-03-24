@@ -10,22 +10,16 @@ order: 1
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
 It will be co-located with [ASPLOS 2018][].
 
-The WAX 2018 keynote will be delivered by [Phillip Stanley-Marbell](http://www.phillipstanleymarbell.org) from the University of Cambridge.
+The WAX 2018 [keynote][] will be delivered by [Phillip Stanley-Marbell](http://www.phillipstanleymarbell.org) from the University of Cambridge.
 There will be [nine thought-provoking position papers][program] presented at the workshop.
 
-Position papers have been reviewed, but there's still time to participate!
-Please submit a lightning talk on a provocative or controversial aspect of approximation or a discussion topic for the workshop:
-
-* ~~Submit position papers [via HotCRP][hotcrp] by February 5~~
-* Submit lightning talks [via email][hank-email] by **March 5**.
-* Submit discussion topics [via wiki][topics] also by **March 5**.
-
-See the [call for participation][cfp] for more details on how to get involved and what to submit.
+You can see the archived [call for participation][cfp] for details on how the workshop is organized.
 
 [hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
 [hank-email]: mailto:hankhoffmann@cs.uchicago.edu
 [topics]: https://github.com/cucapra/wax2018/wiki/Discussion-Topics
 [program]: program.html
+[keynote]: keynote.html
 
 Previous instances:
 
