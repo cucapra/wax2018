@@ -23,6 +23,8 @@ order: 2
 
 **10:30-11:15**: Approximate Memory
 
+Talks are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
+
 * [**ARMOR: Approximate Memory with Worst-Case Error Guarantees through Reshuffling of Memory Failures**][paper10]  
   Sihang Liu (University of Virginia); Kevin Angstadt (University of Michigan); Mike Ferdman (Stony Brook University); Samira Khan (University of Virginia)
 
