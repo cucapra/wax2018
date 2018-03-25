@@ -25,7 +25,7 @@ order: 2
 
 Talks are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
 
-* [**ARMOR: Approximate Memory with Worst-Case Error Guarantees through Reshuffling of Memory Failures**][paper10]  
+* [**ARMOR: Towards Restricted Approximation with a Worst-Case Guarantee**][paper10]  
   Sihang Liu (University of Virginia); Kevin Angstadt (University of Michigan); Mike Ferdman (Stony Brook University); Samira Khan (University of Virginia)
 
 * [**Quality-Configurable Approximate Memory Hierarchy: A Formal Control Theory Approach**][paper12]  
