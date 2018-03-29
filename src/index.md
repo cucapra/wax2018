@@ -8,12 +8,12 @@ order: 1
 <img src="waxlogo500.jpg" style="max-width: 120px;" class="illus">
 
 Welcome to the 2018 Workshop on Approximate Computing Across the Stack (WAX)! WAX is a venue for research focusing on computing with unreliability and inexactness.
-It will be co-located with [ASPLOS 2018][].
+It was co-located with [ASPLOS 2018][].
 
-The WAX 2018 [keynote][] will be delivered by [Phillip Stanley-Marbell](http://www.phillipstanleymarbell.org) from the University of Cambridge.
-There will be [nine thought-provoking position papers][program] presented at the workshop.
+The WAX 2018 [keynote][] was by [Phillip Stanley-Marbell](http://www.phillipstanleymarbell.org) from the University of Cambridge.
+There were [nine thought-provoking position papers][program] presented at the workshop.
 
-You can see the archived [call for participation][cfp] for details on how the workshop is organized.
+You can see the archived [call for participation][cfp] or the [program][].
 
 [hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
 [hank-email]: mailto:hankhoffmann@cs.uchicago.edu
